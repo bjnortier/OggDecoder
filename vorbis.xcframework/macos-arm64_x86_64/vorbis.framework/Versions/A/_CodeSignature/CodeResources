@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		glaoc046o2EjWNFiL6JbCkSMITs=
+		rCpMHAem/7i0nvB/HCtwWfNmz54=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -22,21 +22,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0qugUnJS3CZf/EC8mxlV1awNyNXhbZN2+jZsBfon3H8=
+			vmUvacKmzTC7vPygX0WqoMIkQ4+j50sjQjcE0+YGvtk=
 			</data>
 		</dict>
 		<key>Headers/vorbisfile.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fZgmTlewGQ7wonAaC+pfmC6C/Bvt2TzZQIov/3eQ+AM=
+			p0RYlRYw+Pp8zjtNFp1KDURY/8xI6NZzoolguOdzuEY=
+			</data>
+		</dict>
+		<key>Modules/module.modulemap</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Peyrlw+htY5HxB03GzjTPkdiZMLwLgCFjGjp/o4HFaA=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			83MnzHZLhyD86p0B2R2lQZYkgqLuSqYYD2ER5XU5OpY=
+			W8fFiVnA4O72oTpU4hyxXP/j+4I7X/nZk7/BYi1iPi0=
 			</data>
 		</dict>
 	</dict>

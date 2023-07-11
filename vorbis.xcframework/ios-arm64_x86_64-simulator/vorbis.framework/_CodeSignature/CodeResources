@@ -10,15 +10,19 @@
 		</data>
 		<key>Headers/vorbisenc.h</key>
 		<data>
-		4QmfKgO72x3ZzC3JSy3IE1kOSz0=
+		Xq1/lUX8mpYfF6n/m5RzDquJXmQ=
 		</data>
 		<key>Headers/vorbisfile.h</key>
 		<data>
-		Wmwl/Vs27X3W7CQ4vVd0GZX2pAw=
+		6/DYNlkpF9LbSu+akREIq2IoeH0=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		LyqbEMiKiVo9ZULr412t9P+9aIs=
+		L+J0eEXFUJ3uH1aiyuPsD76UTqs=
+		</data>
+		<key>Modules/module.modulemap</key>
+		<data>
+		p6l/zTsoI3/YUEkKxjW/Wz5ZLZA=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -34,14 +38,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0qugUnJS3CZf/EC8mxlV1awNyNXhbZN2+jZsBfon3H8=
+			vmUvacKmzTC7vPygX0WqoMIkQ4+j50sjQjcE0+YGvtk=
 			</data>
 		</dict>
 		<key>Headers/vorbisfile.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fZgmTlewGQ7wonAaC+pfmC6C/Bvt2TzZQIov/3eQ+AM=
+			p0RYlRYw+Pp8zjtNFp1KDURY/8xI6NZzoolguOdzuEY=
+			</data>
+		</dict>
+		<key>Modules/module.modulemap</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Peyrlw+htY5HxB03GzjTPkdiZMLwLgCFjGjp/o4HFaA=
 			</data>
 		</dict>
 	</dict>
